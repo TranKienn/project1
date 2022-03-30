@@ -1,0 +1,6 @@
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\bin\Debug\TDLL.DTO.dll
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\bin\Debug\TDLL.DTO.pdb
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\obj\Debug\TDLL.DTO.csproj.AssemblyReference.cache
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\obj\Debug\TDLL.DTO.csproj.CoreCompileInputs.cache
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\obj\Debug\TDLL.DTO.dll
+E:\BaiTapLon.NEt\TTDL\TDLL.DTO\obj\Debug\TDLL.DTO.pdb

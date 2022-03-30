@@ -1,0 +1,5 @@
+E:\BaiTapLon.NEt\TTDL\TTDL.DTO\bin\Debug\TTDL.DTO.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.DTO\bin\Debug\TTDL.DTO.pdb
+E:\BaiTapLon.NEt\TTDL\TTDL.DTO\obj\Debug\TTDL.DTO.csproj.CoreCompileInputs.cache
+E:\BaiTapLon.NEt\TTDL\TTDL.DTO\obj\Debug\TTDL.DTO.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.DTO\obj\Debug\TTDL.DTO.pdb

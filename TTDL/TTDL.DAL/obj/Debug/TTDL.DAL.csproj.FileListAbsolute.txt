@@ -1,0 +1,9 @@
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\obj\Debug\TTDL.DAL.csproj.AssemblyReference.cache
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\obj\Debug\TTDL.DAL.csproj.CoreCompileInputs.cache
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\bin\Debug\TTDL.DAL.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\bin\Debug\TTDL.DAL.pdb
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\obj\Debug\TTDL.DAL.csproj.CopyComplete
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\obj\Debug\TTDL.DAL.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\obj\Debug\TTDL.DAL.pdb
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\bin\Debug\TTDL.DTO.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.DAL\bin\Debug\TTDL.DTO.pdb

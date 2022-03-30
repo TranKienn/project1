@@ -1,0 +1,6 @@
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\bin\Debug\TTDL.UTIL.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\bin\Debug\TTDL.UTIL.pdb
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\obj\Debug\TTDL.UTIL.csproj.AssemblyReference.cache
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\obj\Debug\TTDL.UTIL.csproj.CoreCompileInputs.cache
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\obj\Debug\TTDL.UTIL.dll
+E:\BaiTapLon.NEt\TTDL\TTDL.UTIL\obj\Debug\TTDL.UTIL.pdb

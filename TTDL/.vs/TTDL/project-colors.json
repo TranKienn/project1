@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "121087ad-cecf-49a0-a2be-56650bc52dab": {
+      "ProjectGuid": "121087ad-cecf-49a0-a2be-56650bc52dab",
+      "DisplayName": "TTDL.GUI",
+      "ColorIndex": 0
+    },
+    "7076a93e-f1c4-401e-991e-aeef60a229b5": {
+      "ProjectGuid": "7076a93e-f1c4-401e-991e-aeef60a229b5",
+      "DisplayName": "TTDL.DAL",
+      "ColorIndex": 1
+    },
+    "76151e02-6146-4433-b212-fa3d4f241adf": {
+      "ProjectGuid": "76151e02-6146-4433-b212-fa3d4f241adf",
+      "DisplayName": "TTDL.BLL",
+      "ColorIndex": 2
+    },
+    "f98e1468-c054-4f79-b461-bd485326bb89": {
+      "ProjectGuid": "f98e1468-c054-4f79-b461-bd485326bb89",
+      "DisplayName": "TTDL.DTO",
+      "ColorIndex": 3
+    },
+    "d729b75a-a369-4a3a-8476-6ee29e48d965": {
+      "ProjectGuid": "d729b75a-a369-4a3a-8476-6ee29e48d965",
+      "DisplayName": "TTDL.UTIL",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b58e66a2-e499-4024-a1f2-3dc7422a4123": {
+      "ProjectGuid": "b58e66a2-e499-4024-a1f2-3dc7422a4123",
+      "DisplayName": "TDLL.DTO",
+      "ColorIndex": 5
+    },
+    "587cbcc9-b1ff-422b-80fc-dd87dd3f7fdb": {
+      "ProjectGuid": "587cbcc9-b1ff-422b-80fc-dd87dd3f7fdb",
+      "DisplayName": "TTDL.DAL",
+      "ColorIndex": 6
+    },
+    "0181ef6b-8056-42ef-9ccb-840c4e1aa3fc": {
+      "ProjectGuid": "0181ef6b-8056-42ef-9ccb-840c4e1aa3fc",
+      "DisplayName": "TTDL.BLL",
+      "ColorIndex": 7
+    },
+    "25ba4ccd-b633-4317-b4fe-dafaf4bfb035": {
+      "ProjectGuid": "25ba4ccd-b633-4317-b4fe-dafaf4bfb035",
+      "DisplayName": "TTDL.UTIL",
+      "ColorIndex": 8
+    },
+    "d2abb902-fda4-4a03-be0b-246ae6a2cb42": {
+      "ProjectGuid": "d2abb902-fda4-4a03-be0b-246ae6a2cb42",
+      "DisplayName": "TTDL.DTO",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}
